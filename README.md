@@ -1,7 +1,7 @@
-react-flux
+REACT JS SOCIAL MEDIA TRACKER 
 ===========
 
-Example of Flux, using redux
+Flux, using redux
 
 ### Usage
 
